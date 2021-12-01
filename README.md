@@ -1,4 +1,4 @@
-### NEXTER
+# NEXTER
 ### [Live Site](https://alaa-elghamry.github.io/NEXTER/)
 
 Nexter is a website for a company that sells luxury homes, designed with a fancy User Interface to apply different CSS Grid technics.
